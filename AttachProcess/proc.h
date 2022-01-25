@@ -1,4 +1,4 @@
-#include "D:\\HackingGameWinAPi\\Myinclude.h"
+#include "Myinclude.h"
 
 DWORD Timprocess(const wchar_t* procName);
 
