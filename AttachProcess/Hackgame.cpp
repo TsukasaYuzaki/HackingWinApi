@@ -1,5 +1,5 @@
 #include "proc.h" 
-//g++ -DUNICODE Hackgame.cpp proc.cpp -o FULL.exe
+
 int main() {
 	DWORD procId = Timprocess(L"ac_client.exe");
 
